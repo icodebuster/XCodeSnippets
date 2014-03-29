@@ -22,7 +22,7 @@
 {
     self = [super init];
     if (self) {
-        _str = [NSString string];
+        
     }
     return self;
 }
