@@ -9,8 +9,9 @@ Copy all the files from **`CodeSnippets`** folder to **`~/Library/Developer/Xcod
 
 After starting XCode you can use the following shortcut instead of typing the entire code.
 
-| Shortcut      | Description         |
-| ------------- |:-------------------:|
-| lg            | For NSLog           |
-| pm            | For #pragma mark    |
-| slton         | For Singleton       |
+| Shortcut      | Description                                     |
+| ------------- |:-----------------------------------------------:|
+| lg            | For NSLog                                       |
+| pm            | For #pragma mark                                |
+| slton         | For Singleton                                   |
+| tbl           | Tableview Datasource And Delegate Methods       |
