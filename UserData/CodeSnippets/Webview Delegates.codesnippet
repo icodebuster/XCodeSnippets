@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>webview</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>#pragma mark - Webview Delegate Methods
+
+- (void)webViewDidStartLoad:(UIWebView *)webView
+{
+    
+}
+
+- (void)webViewDidFinishLoad:(UIWebView *)webView
+{
+    
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DEC7E532-F604-4352-B369-7449CD596545</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Web View Delegate Methods</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Webview Delegates</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
